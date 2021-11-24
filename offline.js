@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1637757592,
+	"version": 1637762747,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,10 +8,6 @@
 		"images/bazikonabi-sheet0.png",
 		"images/bazikonabi-sheet1.png",
 		"images/bazikonabi-sheet2.png",
-		"images/bazikonabi-sheet3.png",
-		"images/bazikonabi-sheet4.png",
-		"images/bazikonabi-sheet5.png",
-		"images/bazikonabi-sheet6.png",
 		"images/ball-sheet0.png",
 		"images/divare-sheet0.png",
 		"images/felesh-sheet0.png",
@@ -23,8 +19,6 @@
 		"images/bazikoneghermez-sheet0.png",
 		"images/bazikoneghermez-sheet1.png",
 		"images/bazikoneghermez-sheet2.png",
-		"images/bazikoneghermez-sheet3.png",
-		"images/bazikoneghermez-sheet4.png",
 		"images/feleshharif-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
